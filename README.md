@@ -22,3 +22,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+![Screenshot 2023-11-11 111730](https://github.com/nazero3/investment-app/assets/31309725/ad7fbcdf-5c68-4e62-bc88-1f3286c00f3e)
