@@ -19,7 +19,7 @@ function UserInput({onChange ,userToHeader}) {
           <label>Annual Invesment</label>
           <input type="number" required 
           value={userToHeader.annualInvestment}
-          onChange={(event) =>  onChange('AnnualInvestment',event.target.value)}
+          onChange={(event) =>  onChange('annualInvestment',event.target.value)}
           />
           
         </p>
@@ -29,13 +29,13 @@ function UserInput({onChange ,userToHeader}) {
           <label>Expected Return</label>
           <input type="number" required 
           value={userToHeader.expectedReturn}
-          onChange={(event) =>  onChange('ExpectedeReturn',event.target.value)}/>
+          onChange={(event) =>  onChange('expectedReturn',event.target.value)}/>
         </p>
         <p>
           <label>Duration</label>
           <input type="number" required 
           value={userToHeader.duration}
-          onChange={(event) =>  onChange('Duration',event.target.value)}
+          onChange={(event) =>  onChange('duration',event.target.value)}
           />
         </p>
       </div>
