@@ -1,30 +1,39 @@
-# Getting Started with Investmetn Calculator
+# Investment App 💼
 
-## Available Scripts
+**Investment App** is a React-based frontend application designed to help users track and manage their investments. This project is focused on providing a user-friendly interface to visualize investment data and make informed decisions. 
 
-Before running anything do not for get to run this first:
+## Features 🌟
 
-###`npm install`
+- **Portfolio Management**: Track different types of investments, including stocks, bonds, and mutual funds.
+- **Data Visualization**: Interactive charts and graphs to show investment performance over time.
+- **Responsive Design**: Mobile-first, responsive layout for seamless use across devices.
+- **Real-Time Data**: Integration with real-time financial data APIs for up-to-date information.
+- **User Authentication**: Secure user authentication and session management for personalized portfolios.
 
-In the project directory, you can run:
+## Technologies Used 🛠️
 
-### `npm start`
+- **React**: JavaScript library for building user interfaces.
+- **Redux**: State management for handling the global app state.
+- **Axios**: For making HTTP requests to the backend or financial data APIs.
+- **React Router**: For handling in-app navigation.
+- **Material-UI**: A UI component library for building a modern and accessible user interface.
+- **Recharts**: For creating interactive data visualizations and charts.
+- **Formik**: For handling forms and user input validations.
+- **Yup**: Schema validation for forms.
+- **Sass**: CSS pre-processor for styling the app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started 🚀
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+- **Node.js** and **npm** installed on your machine.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation
 
-## Learn More
+1. Clone the repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   git clone https://github.com/nazero3/investment-app.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ![Screenshot 2023-11-11 111730](https://github.com/nazero3/investment-app/assets/31309725/ad7fbcdf-5c68-4e62-bc88-1f3286c00f3e)
